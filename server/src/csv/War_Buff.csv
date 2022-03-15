@@ -1,0 +1,5 @@
+id,name,icon,word,lv,dec,group,type,arms,time,superposition,base_type1,base_value1,base_type2,base_value2,base_type3,base_value3,base_type4,base_value4,base_type5,base_value5,base_type6,base_value6,tips,lvup,synthetise,honor
+80001,鼓舞,0,0,1,强化物理+%.0f％,3,1,0,0,1,32,400,0,0,0,0,0,0,0,0,0,0,400,400,0,0
+80002,鼓舞,0,0,1,强化魔法+%.0f％,3,1,0,0,1,33,400,0,0,0,0,0,0,0,0,0,0,400,400,0,0
+80003,鼓舞,0,0,1,神术伤害+%.0f％,3,1,0,0,1,73,400,0,0,0,0,0,0,0,0,0,0,400,400,0,0
+80004,鼓舞,0,0,1,伤害抵抗+%.0f％,3,1,0,0,1,25,400,0,0,0,0,0,0,0,0,0,0,400,400,0,0

@@ -1,0 +1,5 @@
+id,group,sale,tasktypes,n1,n2,n3,n4,item1,num1,item2,num2,item3,num3,item4,num4,describe1,describe2,tab_name,pic,tab_pic,efficacy1,efficacy2,efficacy3,efficacy4,describe,end_describe
+1001,1,98,73,1,225,0,0,91000002,4900,42400804,1,12400801,40,91000022,1000,5倍,元宝返利，直升贵族3，仅此一次！,英雄礼包,bg_huodong_yxwd_12.png,icon_xianshilibao_yxwd_01.png,0,0,0,0,充值980钻石,超值经验，VIP快速成长
+1002,1,198,73,1,226,0,0,91000002,5940,60000216,2,60000215,5,91000022,2000,10倍,海量宝石，直升贵族5，仅此一次！,宝石礼包,bg_huodong_yxwd_11.png,icon_xianshilibao_yxwd_02.png,0,0,0,0,充值1980钻石,宝石放送，战力高人一等
+1003,1,328,73,1,227,0,0,91000002,9840,42200504,1,12200501,40,30101000,1000,10倍,超值返利，超强肉盾，无人可破,英雄礼包,bg_huodong_yxwd_08.png,icon_xianshilibao_yxwd_01.png,0,0,0,0,充值3280钻石,橙+英雄，祝您突破新境界
+1004,1,648,73,1,228,0,0,20001001,1,20001002,1,20001003,1,20001004,1,20倍,返利，送极品装备，极速升阶PK制胜,装备礼包,bg_huodong_yxwd_10.png,icon_xianshilibao_yxwd_03.png,0,0,0,0,充值6480钻石,极品装备，限时放送

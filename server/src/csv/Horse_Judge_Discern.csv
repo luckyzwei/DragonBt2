@@ -1,0 +1,3 @@
+ID,discern_small_horse,cost_small_horse,cost_item,cost_num,itembaggroup,odds,dropitem_id,dropitem_num,get_judge_exp
+1001,1001,1,91000001,5000,100001,1000,15100101,1,0
+1002,1002,1,91000001,5000,100002,10000,15100101,1,0

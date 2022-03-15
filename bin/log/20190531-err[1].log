@@ -1,0 +1,7 @@
+20:29:43.022803 csvutil.go:45: [error ] open csv/System_Award.csv: The system cannot find the file specified.
+20:29:43.022803 csvutil.go:240: [error ] len(csvData) <= 1, filename: System_Award
+20:31:18.273194 csvutil.go:45: [error ] open csv/System_Award.csv: The system cannot find the file specified.
+20:31:18.273194 csvutil.go:240: [error ] len(csvData) <= 1, filename: System_Award
+20:33:54.872261 csvutil.go:134: [error ] strconv.Atoi: parsing "": invalid syntax , fileName:System_Award , fieldName: Id , index: 4
+20:33:54.872261 csvutil.go:134: [error ] strconv.Atoi: parsing "": invalid syntax , fileName:System_Award , fieldName: Point , index: 4
+20:33:54.874266 csvutil.go:156: [error ] strconv.ParseFloat: parsing "": invalid syntax , fileName:System_Award , fieldName: Items , row: 4 , col: 2 ,  ,,

@@ -1,0 +1,7 @@
+{
+ "wshost":"0.0.0.0:9997",
+ "serverid":1,
+ "initgroupnum":300,
+ "addgroupnum":50,
+ "maxmsgchan":1000
+}

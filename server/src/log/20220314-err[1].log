@@ -1,0 +1,36 @@
+11:32:16.211047 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1108
+11:32:16.211047 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1109
+11:32:16.211047 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1110
+11:32:16.211047 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1111
+11:32:16.212057 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1112
+11:32:16.212057 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1113
+11:32:16.230082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1624
+11:32:16.230082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1625
+11:32:16.230082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1626
+11:32:16.230082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1627
+11:32:16.230082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1628
+11:32:16.230082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 1629
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2120
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2121
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2122
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2123
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2124
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2125
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2126
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2127
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2128
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2129
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2130
+11:32:16.248082 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2131
+11:32:16.252083 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2220
+11:32:16.252083 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2221
+11:32:16.252083 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2222
+11:32:16.252083 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2223
+11:32:16.252083 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2224
+11:32:16.252083 csvutil.go:134: [error ] strconv.Atoi: parsing "#REF!": invalid syntax , fileName:Activitynew , fieldName: Step , index: 2225
+11:32:22.748175 mgr_activity.go:557: [error ] 开服时间填写错误: parsing time "2099-1-10 05:00:00" as "2006-01-02 15:04:05": cannot parse "1-10 05:00:00" as "01" , 活动类型: 1806
+11:32:22.748175 mgr_activity.go:557: [error ] 开服时间填写错误: parsing time "2099-1-10 05:00:00" as "2006-01-02 15:04:05": cannot parse "1-10 05:00:00" as "01" , 活动类型: 1807
+11:32:22.748175 mgr_activity.go:557: [error ] 开服时间填写错误: parsing time "2099-1-10 05:00:00" as "2006-01-02 15:04:05": cannot parse "1-10 05:00:00" as "01" , 活动类型: 1803
+11:32:22.748175 mgr_activity.go:557: [error ] 开服时间填写错误: parsing time "2099-1-10 05:00:00" as "2006-01-02 15:04:05": cannot parse "1-10 05:00:00" as "01" , 活动类型: 1802
+11:32:22.748175 mgr_activity.go:557: [error ] 开服时间填写错误: parsing time "2099-1-10 05:00:00" as "2006-01-02 15:04:05": cannot parse "1-10 05:00:00" as "01" , 活动类型: 1804
+11:32:22.748175 mgr_activity.go:557: [error ] 开服时间填写错误: parsing time "2099-1-10 05:00:00" as "2006-01-02 15:04:05": cannot parse "1-10 05:00:00" as "01" , 活动类型: 1805

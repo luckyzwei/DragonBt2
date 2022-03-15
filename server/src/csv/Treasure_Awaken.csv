@@ -1,0 +1,7 @@
+group,star,cost_item1,cost_num1,cost_item2,cost_num2,attribute_type1,attribute_value1,attribute_type2,attribute_value2,attribute_type3,attribute_value3,attribute_type4,attribute_value4,attribute_type5,attribute_value5,attribute_type6,attribute_value6,skill,reset_item,reset_num,return_item1,return_num1,return_item2,return_num2,quality,name,icon
+1,0,22000003,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91000002,0,22000003,0,0,0,20,玄武套装,zhenbao_3
+1,1,0,0,0,0,6,120000,7,12000,8,12000,9,12000,10,12000,0,0,0,91000002,1000,22000003,30,0,0,20,玄武套装,zhenbao_3
+2,0,22000002,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91000002,0,22000002,0,0,0,20,白虎套装,zhenbao_2
+2,1,0,0,0,0,6,120000,7,12000,8,12000,9,12000,10,12000,0,0,0,91000002,1000,22000002,30,0,0,20,白虎套装,zhenbao_2
+3,0,22000001,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91000002,0,22000001,0,0,0,20,青龙套装,zhenbao_1
+3,1,0,0,0,0,6,120000,7,12000,8,12000,9,12000,10,12000,0,0,0,91000002,1000,22000001,30,0,0,20,青龙套装,zhenbao_1

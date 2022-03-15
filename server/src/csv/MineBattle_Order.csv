@@ -1,0 +1,8 @@
+id,order_type,type,param1,param2,param3,param4,param5,param6,param7,param8,cd_time,get_weight,name,describe,describe2,describe3,icon
+1,1,1,0,0,0,0,0,0,0,0,10,0,移动,移动到相邻的我方矿点,0,0,icon_zhengduozhan_yxwd_07.png
+2,1,2,3,2,1,0,0,0,0,0,10,0,攻击,攻击相邻敌方矿点,0,0,icon_zhengduozhan_yxwd_08.png
+3,1,3,0,0,0,0,0,0,0,0,120,0,征收,当前征收城池,0,0,icon_zhengduozhan_yxwd_06.png
+4,1,4,91000002,0,0,0,0,0,0,0,0,0,兵力,查看驻守兵力,0,0,icon_guozhan_yxwd_03.png
+11,2,11,0,0,0,0,0,1,0,0,0,1,驰援,技能效果：可瞬间将自己部队移动到我方占领的任意一个矿点。,个人技能,技能获得：部队防守时，被击败回城时随机获得,icon_zhengduozhan_yxwd_02.png
+12,2,12,3,2,1,0,0,1,0,0,0,1,奔袭,技能效果：可攻击敌方除基地以外的任意一个矿点。,个人技能,技能获得：部队防守时，被击败回城时随机获得,icon_zhengduozhan_yxwd_03.png
+13,3,13,91000002,30,0,0,0,0,0,0,60,0,侦查,效果说明：查看所有敌方阵营矿点人数。（显示持续1分钟）CD时间内可查看敌方矿点驻扎部队。,侦查技能,侦查消耗：30钻石,0

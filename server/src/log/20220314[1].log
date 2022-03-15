@@ -1,0 +1,31 @@
+11:32:19.020802 dbserver.go:55: [debug ] db connect! dragon_bt
+11:32:19.024095 dbserver.go:55: [debug ] db connect! dragon_bt_log
+11:32:25.313386 server.go:329: [info  ] 读取数据OK
+11:32:25.315142 server.go:1256: [info  ] 请求黑词数据...
+11:32:25.316541 mgr_arena.go:327: [info  ] 迁移数据： san_arenabattleinfo 0
+11:32:25.316541 mgr_pass_record.go:123: [info  ] 迁移数据： san_passbattleinfo 0
+11:32:25.317055 mgr_pass_record.go:150: [info  ] san_passbattleinfo 迁移数据OK
+11:32:25.317055 mgr_arena.go:354: [info  ] san_arenabattleinfo 迁移数据OK
+11:32:25.317055 mgr_arena_special.go:137: [info  ] 迁移数据： san_arenaspecialbattleinfo 0
+11:32:25.319031 mgr_arena_special.go:164: [info  ] san_arenaspecialbattleinfo 迁移数据OK
+11:32:26.328346 server.go:1521: [debug ] connect chat server ..
+11:33:00.426481 server.go:662: [info  ] 保存排行榜OK
+11:33:00.426990 server.go:664: [info  ] 保存收藏家ok
+11:33:00.426990 server.go:666: [info  ] 保存暗域入侵ok
+11:33:00.426990 server.go:668: [info  ] 保存跨服竞技场OK
+11:33:00.426990 server.go:670: [info  ] 保存33跨服竞技场OK
+11:33:00.426990 server.go:672: [info  ] 保存军团ok
+11:33:00.426990 server.go:674: [info  ] 保存邮件信息ok
+11:33:00.426990 server.go:676: [info  ] 保存兵种天下会武ok
+11:33:00.428055 server.go:1040: [debug ] SQL BASE EXEC: update `san_crossarena` set `updatetime`=1647229076 where `keyid`=2 limit 1
+11:33:00.428561 server.go:678: [info  ] 离线信息保存ok
+11:33:00.428592 server.go:680: [info  ] 雇佣信息保存ok
+11:33:00.429157 server.go:682: [info  ] 保存内政厅排行榜ok
+11:33:00.430670 server.go:684: [info  ] 关卡保存ok
+11:33:00.430670 server.go:686: [info  ] 服务器红包保存ok
+11:33:00.519653 server.go:688: [info  ] 保存活动转盘信息ok
+11:33:00.519653 server.go:690: [info  ] 图书馆ok
+11:33:00.520684 server.go:692: [info  ] 排行任务ok
+11:33:00.539089 server.go:1005: [debug ] SQL BASE EXEC: update `san_arenatime` set `refreshtime`=1647205200 where `type`=2 limit 1
+11:33:00.553599 server.go:1040: [debug ] SQL BASE EXEC: update `san_crossarena3v3` set `updatetime`=1647229076 where `keyid`=1 limit 1
+11:33:00.603635 server.go:1040: [debug ] SQL BASE EXEC: update `san_arenatime` set `refreshtime`=1647205200 where `type`=1 limit 1

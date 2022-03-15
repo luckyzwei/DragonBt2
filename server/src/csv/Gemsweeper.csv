@@ -1,0 +1,5 @@
+id,type,precious_name,quality,gradelevel,activation_item1,activation_num1,activation_item2,activation_num2,activation_item3,activation_num3,activation_item4,activation_num4,activation_item5,activation_num5,cost_item,cost_num,event_group,duration,picture,item1_show,item2_show,item3_show,item4_show,drop_presentation
+1,1,无名荒冢,2,0,81700001,1,0,0,0,0,0,0,0,0,79000009,1,1,0,icon_txbz_02,71000002,0,0,0,
+2,2,丝路遗址,14,40,81700008,5,0,0,0,0,0,0,0,0,79000010,1,100,1800,icon_txbz_05,81800001,0,0,0,
+3,2,兵马俑,14,40,81700010,5,0,0,0,0,0,0,0,0,79000010,1,101,1800,icon_txbz_05,81400601,81900001,81400602,84100001,
+4,2,战将古城,14,40,81700011,5,0,0,0,0,0,0,0,0,79000010,1,102,1800,icon_txbz_05,81900021,50000004,0,0,

@@ -1,0 +1,4 @@
+count_type,index,city_min,city_max,extra_itemid,single_city_num,sum_city_num
+2,1,1,40,91000001,500,0
+2,2,41,60,91000001,1000,20000
+2,3,61,160,91000001,2000,40000

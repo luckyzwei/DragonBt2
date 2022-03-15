@@ -1,0 +1,6 @@
+id,name,background,icon,privilege,txt,base_type1,base_value1,base_type2,base_value2,base_type3,base_value3,base_type4,base_value4,base_type5,base_value5,base_type6,base_value6,base_type7,base_value7,base_type8,base_value8
+1,男爵,icon_juewei_yxwd_01,font_juewei_yxwd_03,1,普通关卡10连扫荡功能,7,640,8,640,9,1280,10,1280,29,640,30,640,6,6400,99,268800
+2,子爵,icon_juewei_yxwd_02,font_juewei_yxwd_04,4,战斗2倍速功能,7,1360,8,1360,9,2720,10,2720,29,1360,30,1360,6,13600,99,571200
+3,伯爵,icon_juewei_yxwd_03,font_juewei_yxwd_05,2,斗技场战斗无冷却时间,7,2160,8,2160,9,4320,10,4320,29,2160,30,2160,6,21600,99,907200
+4,侯爵,icon_juewei_yxwd_04,font_juewei_yxwd_06,0,0,7,3040,8,3040,9,6080,10,6080,29,3040,30,3040,6,30400,99,1276800
+5,公爵,icon_juewei_yxwd_05,font_juewei_yxwd_07,3,时空秘境扫荡功能,7,4000,8,4000,9,8000,10,8000,29,4000,30,4000,6,40000,99,1680000

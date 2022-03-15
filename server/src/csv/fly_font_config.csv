@@ -1,0 +1,10 @@
+font_type,font_res,font_info
+1,res/fonts/font_jichu_0_0.fnt,fly_font/fly_font_basis.csv
+2,res/fonts/font_jineng_0_0.fnt,fly_font/fly_font_crit.csv
+3,res/fonts/font_jichu_0_0.fnt,fly_font/fly_font_block.csv
+4,res/fonts/font_jineng_0_0.fnt,fly_font/fly_font_critblock.csv
+5,res/fonts/font_hp_1_0.fnt,fly_font/fly_font_heal.csv
+6,res/fonts/font_mp_1_0.fnt,fly_font/fly_font_rage.csv
+7,res/fonts/font_hudun_0_0.fnt,fly_font/fly_font_shield.csv
+8,res/fonts/font_jichu_0_0.fnt,fly_font/fly_font_hp.csv
+9,res/fonts/font_jichu_0_0.fnt,fly_font/fly_font_buff.csv

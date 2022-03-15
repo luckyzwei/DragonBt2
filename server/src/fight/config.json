@@ -1,0 +1,15 @@
+{
+  "wshost": "0.0.0.0:1233",
+  "log": {
+    "maxfilesize": 500,
+    "maxfilenum": 50,
+    "loglevel": 0,
+    "logconsole": true
+  },
+  "servers": [
+    { "serverid": 1, "wshost": "127.0.0.1:1232"},
+    { "serverid": 2, "wshost": "127.0.0.1:1232"},
+    { "serverid": 3, "wshost": "127.0.0.1:1232"},
+    { "serverid": 4, "wshost": "127.0.0.1:1232"}
+  ]
+}

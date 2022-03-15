@@ -1,0 +1,28 @@
+{
+  "serverid": 1,
+  "gamename": "master001",
+  "servername": "魔龙勇士",
+  "wshost": "0.0.0.0:9000",
+  "opentime": "2019-08-20 05:00:00",
+  "serverver": 1000,
+  "gameid": "10000008",
+  "appkey": "158df75271d6439abba7870df6b3c8a2",
+  "admincode": "alibabawansui",
+  "gm": 1000000000,
+  "database": {
+    "dbuser": "root:123456@tcp(127.0.0.1:3306)/dragon_master?charset=utf8&timeout=10s",
+    "dblog": "root:123456@tcp(127.0.0.1:3306)/dragon_master?charset=utf8&timeout=10s",
+    "dbid": 1,
+    "redis": "127.0.0.1:6379",
+    "redisauth": "",
+    "redisdb": 9000,
+    "maxdbconn": 360
+  },
+  "log": {
+    "maxfilesize": 500,
+    "maxfilenum": 50,
+    "loglevel": 0,
+    "logconsole": true
+  },
+  "appconfig": []
+}

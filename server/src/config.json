@@ -1,0 +1,85 @@
+{
+  "serverid": 2,
+  "gamename": "xrzp001",
+  "servername": "三国风云",
+  "wshost": "0.0.0.0:10025",
+  "opentime": "2022-03-03 05:00:00",
+  "serverver": 0,
+  "gameid": "90689",
+  "appkey": "158df75271d6439abba7870df6b3c8a2",
+  "admincode": "alibabawansui",
+  "gm": 100000088,
+  "network": {
+    "maxplayer": 3500,
+    "blackip": [],
+    "whiteid": [],
+    "msgfilter": true
+  },
+  "serverext": {
+    "cachehost": "ws://127.0.0.1:9998/",
+    "master": "127.0.0.1:9000",
+	"masterwarnclose": 1,
+    "numrecord": "106.15.137.174/Alirefor/index.php",
+    "uprecord": 0,
+    "ismaster": true,
+    "updatetime": 5
+  },
+  "database": {
+    "dbuser": "root:admin123@tcp(127.0.0.1:3306)/dragon_bt?charset=utf8&timeout=10s",
+    "dblog": "root:admin123@tcp(127.0.0.1:3306)/dragon_bt_log?charset=utf8&timeout=10s",
+    "dbid": 1,
+    "redis": "127.0.0.1:6379",
+    "redisauth": "123456",
+    "redisdb": 7,
+    "maxdbconn": 360
+  },
+  "log": {
+    "maxfilesize": 500,
+    "maxfilenum": 50,
+    "loglevel": 0,
+    "logconsole": true,
+	"sdk":true
+  },
+  "appconfig": [
+    {
+      "appid": "6002",
+      "gameid": "10000063",
+      "apptoken": "0842f084300bdced0d51fab67efe9d2f",
+      "appleid": "1325954120",
+      "appkey": "b0287048a814296b7a2a79aa094ff271",
+      "name": "血染征袍"
+    },
+    {
+      "appid": "6003",
+      "gameid": "10000034",
+      "apptoken": "6d0f09494f4e2935ceb971f4048db965",
+      "appleid": "1332591732",
+      "appkey": "6d0f09494f4e2935ceb971f4048db965",
+      "name": "三国演义"
+    },
+    {
+      "appid": "6004",
+      "gameid": "10000035",
+      "apptoken": "bf3b54c7789e2071fbb49e2300bb2fa1",
+      "appleid": "1332595550",
+      "appkey": "2f0de58e04eda4a04678d461e4408058",
+      "name": "曹操|三十六记"
+    },
+    {
+      "appid": "6005",
+      "gameid": "10000033",
+      "apptoken": "ef463566d8d5fae06b12ef1414488be2",
+      "appleid": "1332599327",
+      "appkey": "6200277c248a2dbfc0d25f509bf8e02f",
+      "name": "三国志13"
+    },
+    {
+      "appid": "60121",
+      "gameid": "10000081",
+      "apptoken": "ef463566d8d5fae06b12ef1414488be2",
+      "appleid": "1369672685",
+      "appkey": "db89fe56914a1a033bbc4b02ac0a5806",
+      "name": "三国志13"
+    }
+  ]
+}

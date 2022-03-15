@@ -1,0 +1,2 @@
+id,showType,title,img,goFunc
+1,2,0,bg_main_q3_1.png,newSevenDayUI.show(false)

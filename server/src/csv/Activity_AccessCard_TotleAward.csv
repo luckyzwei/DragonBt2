@@ -1,0 +1,7 @@
+id,group,index,point,countdown,item1,num1,conversion_item1,conversion_num1,notice1,notice2,floor_picture1,floor_picture2,title_picture,introduce__picture1,draw_picture,have_herotype,have_hero,picture_jump1,picture_jump2,effect_show,jump_name1,jump_name2,itemjump1,itemjump2,jump1,jump2,entrance_icon
+100101,1,1,50,0,11200101,1,0,0,0,%s已达到%s招募点,font_shoucangjia_03.png,font_shoucangjia_04.png,累计招募积分赢排名奖励|豪华大礼,font_shoucangjia_01.png,2001_1,2,2001,mod_hero.gotoHeroTuJianSkinView(2001),mod_hero.gotoHeroSkinView(2001),0,超值基金获取,限时礼包获取,42010001,42010002,0,0,0
+100102,1,2,200,0,60210072,1,0,0,0,%s已达到%s招募点,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100103,1,3,400,0,30020042,1,0,0,0,%s已达到%s招募点,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100104,1,4,600,0,30020019,1,0,0,0,%s已达到%s招募点,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100105,1,5,800,0,42010002,50,0,0,0,%s已达到%s招募点,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100106,1,6,1200,0,50200101,1,0,0,%s全服第%s领取了终极奖励%s,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0

@@ -1,0 +1,21 @@
+ordernumber,main_type,type,shine_rank,taskid,taskname,level,checkpoint,tasktypes,n1,n2,n3,n4,itemid,numberofcycles,starttime,endtime,teamexp,reward1,number1,reward2,number2,reward3,number3,taskindexes,pretask,vip
+1,1,1,0,200001,挑战首领1次,0,0,41,1,0,0,0,0,0,0,0,0,91000046,20,0,0,0,0,mod_newChapter.goToFightChapter(),0,0
+2,1,1,0,200002,升级英雄1次,0,0,13,1,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,"ui_mgr.openUI(""heroListUI"")",0,0
+3,1,1,0,200003,领取冒险挂机宝箱奖励2次,0,0,21,2,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,mod_newChapter.goToFightChapter(),0,0
+4,1,1,0,200004,装备强化1次,0,0,31,1,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,"ui_mgr.openUI(""heroListUI"")",0,0
+5,1,1,0,200005,赠送好友友情点1次,0,0,111,1,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,mod_friend.openFriendui(),0,0
+6,1,1,0,200006,快速挂机1次,0,0,22,1,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,mod_newChapter.goToFightChapter(),0,0
+7,1,1,0,200007,召唤英雄1次,0,110112,121,1,0,0,0,0,0,0,0,0,91000046,20,0,0,0,0,"ui_mgr.openUI(""SummonOrAstrologyUI"")",0,0
+8,1,1,0,200008,挑战试炼之塔1次,0,110212,82,1,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,"ui_mgr.openUI(""KingTowerMainUI"",enOpenUIType.EUIT_ListType,{towerType=mod_kingTower.towerType.kingTower})",0,0
+9,1,1,0,200009,参加公会团队狩猎1次,0,110220,91,1,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,mod_union.judgeUnionidAndGetuserunioninfo(),0,0
+10,1,1,0,200010,参加竞技场挑战1次,0,110228,51,1,0,0,0,0,0,0,0,0,91000046,20,0,0,0,0,"ui_mgr.openUI(""kickEnemyPlace"")",0,0
+11,1,1,0,200011,接受3个赏金任务,0,110312,101,3,0,0,0,0,0,0,0,0,91000046,10,0,0,0,0,"ui_mgr.openUI(""rewardcolumnUI"")",0,0
+12,2,1,0,600001,在黎明教堂进阶2名英雄,0,110112,14,2,0,0,0,0,0,0,0,0,91000047,20,0,0,0,0,"ui_mgr.openUI(""bigShrineUI"")",0,0
+13,2,1,0,600002,召唤英雄20次,0,110112,121,20,0,0,0,0,0,0,0,0,91000047,20,0,0,0,0,"ui_mgr.openUI(""SummonOrAstrologyUI"")",0,0
+14,2,1,0,600003,击败地牢第1层首领3次,0,110412,62,3,1,0,0,0,0,0,0,0,91000047,10,0,0,0,0,"ui_mgr.openUI(""maze_ui"")",0,0
+15,2,1,0,600004,击败地牢第3层首领1次,0,110412,62,1,3,0,0,0,0,0,0,0,91000047,20,0,0,0,0,"ui_mgr.openUI(""maze_ui"")",0,0
+16,2,1,0,600005,地牢商店购买英雄或道具1次,0,110208,122,1,4,0,0,0,0,0,0,0,91000047,10,0,0,0,0,"ui_mgr.openUI(""shop_mainUI"",enOpenUIType.EUIT_ListType,mod_shop2.enShopType.enST_DiLao)",0,0
+17,2,1,0,600006,商铺购买道具5次,0,110208,122,5,1,0,0,0,0,0,0,0,91000047,10,0,0,0,0,"ui_mgr.openUI(""shop_mainUI"",enOpenUIType.EUIT_ListType,mod_shop2.enShopType.enST_ZaHuo)",0,0
+18,2,1,0,600007,公会商店购买装备1次,0,110220,122,1,2,0,0,0,0,0,0,0,91000047,10,0,0,0,0,"ui_mgr.openUI(""shop_mainUI"",enOpenUIType.EUIT_ListType, mod_shop2.enShopType.enST_GongHui)",0,0
+19,2,1,0,600008,取得竞技场胜利15场,0,110228,51,15,1,0,0,0,0,0,0,0,91000047,20,0,0,0,0,"ui_mgr.openUI(""kickEnemyPlace"")",0,0
+20,2,1,0,600009,接受5个团队赏金任务,0,110312,101,5,2,0,0,0,0,0,0,0,91000047,10,0,0,0,0,rewardcolumnUI.showTheSecondUI(),0,0

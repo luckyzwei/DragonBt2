@@ -1,0 +1,4 @@
+resource_type,name,name_colour,level_limits,level_group,back_picture,item_icon,describe
+1,深渊矿井,2,0,1,card_shilian_yxwd_01.png,91000032,可获得大量英雄勋章
+2,巫妖陵寝,3,0,2,card_shilian_yxwd_01.png,91000033,可获得大量贤者水晶
+3,魔灵禁地,4,0,3,card_shilian_yxwd_01.png,91000001,可获得大量金币

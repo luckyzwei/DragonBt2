@@ -1,0 +1,8 @@
+element_id,element_name,element_restraint,element_desc,pic
+1,水,2,水元素属性,element1.png
+2,火,3,火元素属性,element2.png
+3,雷,4,雷元素属性,element3.png
+4,土,1,土元素属性,element4.png
+5,光,6,光元素属性,element5.png
+6,暗,5,暗元素属性,element6.png
+10,无,0,无属性,0

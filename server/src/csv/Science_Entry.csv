@@ -1,0 +1,5 @@
+id,label,name,protect_id1,condition1,protect_id2,condition2,protect_id3,condition3,protect_id4,condition4,player_level,table_protect,condition_label,total_lv
+1,1,初级,0,0,0,0,0,0,0,0,0,0,0,0
+2,2,中级,0,0,0,0,0,0,0,0,0,初级,1,65
+3,3,高级,0,0,0,0,0,0,0,0,0,中级,2,130
+4,4,特级,0,0,0,0,0,0,0,0,0,高级,3,220

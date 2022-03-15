@@ -1,0 +1,8 @@
+id,name,armyname,king,king_name,capital_name,king_icon,capitalflag,provinceflag,passflag,countyflag,text
+0,匪军,匪军,酋长,大酋长,0,0,0,minicity_4_2,minicity_4_3,minicity_4_4,0
+1,教廷,教廷军队,教皇,教皇,圣赫利,0,minicity_1_1,minicity_1_2,minicity_1_3,minicity_1_4,圣赫利教廷是政教合一的国家，他们信仰光明之神巴德，致力于用信仰终结泰拉尔的纷争。
+2,帝国,帝国军队,皇帝,皇帝,狮鹫城,0,minicity_2_1,minicity_2_2,minicity_2_3,minicity_2_4,狮鹫帝国是军政一体的大帝国，他们崇尚武力，意图以强悍的军队征服整个大陆。
+3,联邦,联邦军队,议长,议长,泰拉尔,0,minicity_3_1,minicity_3_2,minicity_3_3,minicity_3_4,泰拉尔联邦是由多个城邦组成的联合王国，他们信奉自然，努力让大陆保持传统与和谐。
+4,异教徒,异教徒军队,主教,主教,巴邱,0,0,minicity_4_2,minicity_4_3,minicity_4_4,0
+5,邪兽人,邪兽人军队,督军,督军,范阳,0,0,minicity_4_2,minicity_4_3,minicity_4_4,0
+6,暗精灵,暗精灵军队,主母,主母,北海,0,0,minicity_4_2,minicity_4_3,minicity_4_4,0

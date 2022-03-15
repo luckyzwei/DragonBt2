@@ -1,0 +1,2 @@
+hp,attack,armor,magic,res,attackspeed,movespeed,hit,dodge,block,phycrit,magiccrit,phycrittimes,armorbreak,magicbreak,vampire,heal,hprecovery,energyrecovery,plusdamage,physicaldamage,magichurt,immunitydamage
+0.15,1,1,1,1,0,0,0.1,0.1,0.1,0.1,0.1,0.1,1,1,0.1,0.1,0,0,0.1,0.1,0.1,0.1

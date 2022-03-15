@@ -1,0 +1,16 @@
+stunt_id,upgrade_model,icon,name,describe,hufu_limits,show_attribute,quality
+1,1,icon_wenzhang_001.png,活力,生命总量增加%d,1,6,5
+2,2,icon_wenzhang_002.png,勇气,物理攻击增加%d,1,7,5
+3,3,icon_wenzhang_003.png,重防,物理防御增加%d,1,8,5
+4,4,icon_wenzhang_004.png,魔力,魔法攻击增加%d,1,9,5
+5,5,icon_wenzhang_005.png,魔盾,魔法防御增加%d,1,10,5
+6,6,icon_wenzhang_006.png,神力,神术攻击增加%d,51,29,5
+7,7,icon_wenzhang_007.png,神盾,神术防御增加%d,51,30,5
+8,8,icon_wenzhang_008.png,专注,命中等级增加%0.2f,101,13,5
+9,9,icon_wenzhang_009.png,灵巧,闪避等级增加%0.2f,101,14,5
+10,10,icon_wenzhang_010.png,物暴,物理暴击增加%0.2f,151,16,5
+11,11,icon_wenzhang_011.png,物抗,物理抗暴增加%0.2f,201,34,5
+12,12,icon_wenzhang_012.png,魔暴,魔法暴击增加%0.2f,251,17,5
+13,13,icon_wenzhang_013.png,魔抗,魔法抗暴增加%0.2f,301,35,5
+14,14,icon_wenzhang_014.png,破招,格挡等级增加%0.2f,301,15,5
+15,15,icon_wenzhang_015.png,裂杀,破击等级增加%0.2f,301,36,5

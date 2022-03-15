@@ -1,0 +1,17 @@
+{
+ "robottype":5,
+ "isloop":true,
+ "maxnum":500,
+ "serurl":"ws://119.3.79.108:9992",
+ "origin":"http://119.3.79.108",
+ "guozhancityid":1150,
+ "camp":1,
+ "serverid":1,
+ "players":[
+  { "account":"yc06", "password":"1"},
+  { "account":"yc05", "password":"1"}
+ ],
+ "PowerCheckNum":100,
+ "actiondis":7
+}
+

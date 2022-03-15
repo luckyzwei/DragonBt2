@@ -1,0 +1,8 @@
+id,name,quality,quality_color,picture,head,rim,heroid
+1,阿克曼尼,荒野,1,0,beast01.png,frame0.png,5001
+2,格里芬,精英,2,0,beast02.png,frame1.png,5002
+3,曼提柯尔,稀有,3,0,beast03.png,frame2.png,5003
+4,客迈拉,史诗,4,0,beast04.png,frame3.png,5004
+5,阿特拉斯,传说,5,0,beast05.png,frame4.png,5005
+6,海德拉,神使,6,0,beast06.png,frame5.png,5006
+7,斯卡尔,半神,7,0,beast07.png,frame6.png,5007

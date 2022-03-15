@@ -1,0 +1,7 @@
+id,chaptr_group,chaptr_name,cost_id1,cost_num1,limit_level,item_show1,show_num1,item_show2,show_num2,item_show3,show_num3,item_show4,show_num4,item_show5,show_num5,item_show6,show_num6,item_show7,show_num7,picture
+1,1,暗影深渊,91000003,30,0,60000001,1,60000002,1,60000003,1,0,0,0,0,0,0,0,0,molongdongku_1.png
+2,2,魔龙地宫,91000003,30,25,60000002,1,60000003,1,60000004,1,0,0,0,0,0,0,0,0,molongdongku_2.png
+3,3,冰龙觉醒,91000003,30,35,60000002,1,60000003,1,60000004,1,0,0,0,0,0,0,0,0,molongdongku_3.png
+4,4,沉睡巨龙,91000003,30,45,60000002,1,60000003,1,60000004,1,0,0,0,0,0,0,0,0,molongdongku_4.png
+5,5,火焰之灵,91000003,30,55,60000002,1,60000003,1,60000004,1,0,0,0,0,0,0,0,0,molongdongku_5.png
+6,6,龙王觉醒,91000003,30,65,60000002,1,60000003,1,60000004,1,0,0,0,0,0,0,0,0,molongdongku_6.png

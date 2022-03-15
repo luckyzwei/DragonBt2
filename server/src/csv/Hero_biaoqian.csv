@@ -1,0 +1,34 @@
+id,name,icon,intr,equipintr
+1,怒涛,element1,怒涛联邦：克制圣焰部落，被雷鸣之城克制,【怒涛】英雄穿戴后，装备属性提升30%
+2,圣焰,element2,圣焰部落：克制神峰秘境，被怒涛联邦克制,【圣焰】英雄穿戴后，装备属性提升30%
+3,雷鸣,element3,雷鸣之城：克制怒涛联邦，被神峰秘境克制,【雷鸣】英雄穿戴后，装备属性提升30%
+4,神峰,element4,神峰秘境：克制雷鸣之城，被圣焰部落克制,【神峰】英雄穿戴后，装备属性提升30%
+5,光明,element5,光明：克制暗影，同时被暗影克制,【光明】英雄穿戴后，装备属性提升30%
+6,暗影,element6,暗影：克制光明，同时被光明克制,【暗影】英雄穿戴后，装备属性提升30%
+7,星辰,element7,星辰：不克制任何属性，也不被任何属性克制,【星辰】英雄穿戴后，装备属性提升30%
+11,力量,hero_biaoqian_liliang,力量型英雄，造成物理伤害,力量型英雄的专属装备。力量型英雄勇猛而坚强，对于这些时常处于最危险位置的勇者，厚重的铠甲和威力巨大的武器，是战斗中最值得信赖的伙伴。
+12,敏捷,hero_biaoqian_minjie,敏捷型英雄，造成物理伤害,敏捷型英雄的专属装备。敏捷型英雄身手矫健，迅捷如风。锐利的武器和轻便的护甲是那些致命一击不可或缺的组成部分。
+13,智力,hero_biaoqian_zhili,智力型英雄，造成魔法伤害,智力型英雄的专属装备。智力型英雄善于借助魔法的力量和智慧进行战斗，很多智力型英雄终其一生，都在追寻那些蕴藏巨大能量的宝物来增强自己的力量。
+21,爆发,hero_biaoqian_baofa,主要职责：爆发输出,
+22,输出,hero_biaoqian_chixu,主要职责：持续输出,
+23,刺客,hero_biaoqian_cike,主要职责：刺客,
+24,减益,hero_biaoqian_jianyi,主要职责：减益,
+25,控制,hero_biaoqian_kongzhi,主要职责：控制,
+26,群攻,hero_biaoqian_qungong,主要职责：群攻,
+27,肉盾,hero_biaoqian_roudun,主要职责：肉盾,
+28,增益,hero_biaoqian_zengyi,主要职责：增益,
+29,治疗,hero_biaoqian_zhiliao,主要职责：治疗,
+31,爆发,hero_biaoqian_baofa,次要职责：爆发输出,
+32,输出,hero_biaoqian_chixu,次要职责：持续输出,
+33,刺客,hero_biaoqian_cike,次要职责：刺客,
+34,减益,hero_biaoqian_jianyi,次要职责：减益,
+35,控制,hero_biaoqian_kongzhi,次要职责：控制,
+36,群攻,hero_biaoqian_qungong,次要职责：群攻,
+37,坦克,hero_biaoqian_tanke,次要职责：坦克,
+38,增益,hero_biaoqian_zengyi,次要职责：增益,
+39,治疗,hero_biaoqian_zhiliao,次要职责：治疗,
+41,坦克,hero_biaoqian_tanke,职业：坦克                                                       获得不朽毅力的力量,
+42,战士,hero_biaoqian_zhanshi,职业：战士                                                       获得不屈斗志的力量,
+43,法师,hero_biaoqian_fashi,职业：法师                                                       获得远古智慧的力量,
+44,游侠,hero_biaoqian_youxia,职业：游侠                                                       获得迅捷如风的力量,
+45,辅助,hero_biaoqian_fuzhu,职业：辅助                                                       获得仁慈护佑的力量,

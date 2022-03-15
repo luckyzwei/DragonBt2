@@ -1,0 +1,28 @@
+id,taskid,tasktypes,n1,n2,n3,n4,content,item,num,taskindexes,condition
+1,1001,1,5,0,0,0,领主等级达到5,91000002,100,mod_newChapter.openUI(),0
+1,1002,14,5000,0,0,0,队伍战力达5000,91000002,100,"ui_mgr.openUI(""battle_arrayUI"")",return mod_base.issysopen(1)
+1,1003,181,1,20,0,0,任意1个装备强化到20级,91000002,100,"ui_mgr.openUI( ""equip_mainUI"", enOpenUIType.EUIT_ListType, {_index = 1 } )",return mod_base.issysopen(6)
+1,1004,179,3,2,0,0,任意3个英雄达到绿2星,91000002,100,"ui_mgr.openUI(""heroListUI"")",return mod_base.issysopen(2)
+2,2001,1,20,0,0,0,领主等级达到20,91000002,150,mod_newChapter.openUI(),0
+2,2002,14,50000,0,0,0,队伍战力达50000,91000002,150,"ui_mgr.openUI(""battle_arrayUI"")",return mod_base.issysopen(1)
+2,2003,193,5,0,0,0,斗技场战斗5次,91000002,150,"ui_mgr.openUI(""arena_hallUI"")",return mod_base.issysopen(21)
+2,2004,39,2,0,0,0,购买体力2次,91000002,150,"ui_mgr.openUI( ""buyMoneyUI"" , enOpenUIType.EUIT_ListType,1)",return mod_base.issysopen(71)
+2,2005,200,1,5,0,0,任意1个科技达到5级,91000002,150,"ui_mgr.openUI(""science_new"",enOpenUIType.EUIT_ListType,1)",return mod_base.issysopen(15)
+3,3001,1,30,0,0,0,领主等级达到30,91000002,150,mod_newChapter.openUI(),0
+3,3002,14,100000,0,0,0,队伍战力达100000,91000002,150,"ui_mgr.openUI(""battle_arrayUI"")",return mod_base.issysopen(1)
+3,3003,216,5,0,0,0,赠送好友体力5次,91000002,150,"ui_mgr.openUI(""friend_ui"")",return mod_base.issysopen(14)
+3,3004,215,3,0,0,0,军团捐献3次,91000002,150,"ui_mgr.openUI(""jt_main_ui"",enOpenUIType.EUIT_ListType,1)",return mod_base.issysopen(34)
+3,3005,187,1,200704,0,0,通关地下城第7章,91000002,150,mod_dungeons.openDungeonsView()  ,return mod_base.issysopen(24)
+3,3006,183,1,5,0,0,拥有1个5级宝石,91000002,150,"ui_mgr.openUI( ""equip_mainUI"", enOpenUIType.EUIT_ListType, {_index = 2 } )",return mod_base.issysopen(7)
+4,4001,1,36,0,0,0,领主等级达到36,91000002,150,mod_newChapter.openUI(),0
+4,4002,14,150000,0,0,0,队伍战力达150000,91000002,150,"ui_mgr.openUI(""battle_arrayUI"")",return mod_base.issysopen(1)
+4,4003,190,1,26,0,0,时空秘境通关1次,91000002,150,"ui_mgr.openUI(""expedition_mainUI"")",return mod_base.issysopen(41)
+4,4004,211,5,0,2,0,拥有5个高阶佣兵,91000002,150,"ui_mgr.openUI(""soldier_fightUI"")",return mod_base.issysopen(58)
+4,4005,181,1,0,4,0,拥有1件紫色品质装备,91000002,150,mod_dungeons.openDungeonsView()  ,return mod_base.issysopen(24)
+4,4006,179,10,0,0,0,拥有10个英雄,91000002,150,"ui_mgr.openUI(""summon_hallUI"")",0
+5,5001,1,42,0,0,0,领主等级达到42,91000002,200,mod_newChapter.openUI(),0
+5,5002,14,200000,0,0,0,队伍战力达200000,91000002,200,"ui_mgr.openUI(""battle_arrayUI"")",return mod_base.issysopen(1)
+5,5003,41,5,3,0,0,完成5次任意品质的赏金任务,91000002,200,"ui_mgr.openUI(""hero_missionUI"",enOpenUIType.EUIT_ListType,{_index = 3 })",return mod_base.issysopen(69)
+5,5004,196,1,310066,0,0,镇魂塔通关第66层,91000002,200,"ui_mgr.openUI(""climb_tower_mainUI"")",return mod_base.issysopen(22)
+5,5005,140,1,1,0,0,任意圣物达到1阶,91000002,200,"ui_mgr.openUI( ""holy_mainUI"",enOpenUIType.EUIT_ListType,{_index = 1})",return mod_base.issysopen(26)
+5,5006,230,1,1,0,0,任意英雄的任意神格达到1级,91000002,200,"ui_mgr.openUI(""heroListUI"")",return mod_base.issysopen(82)

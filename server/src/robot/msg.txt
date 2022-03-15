@@ -1,0 +1,66 @@
+
+// 1.注册
+//{
+//"ctrl": "login_guest",
+//"brand": "apple",
+//"account": "lyz1232",
+//"model": "s8",
+//"deviceid": "0000000",
+//"ver": 105001000,
+//"password": "1",
+//"serverid": 5,
+//"msgid": 2,
+//"os": "windows"
+//}
+
+//{
+//"cid": "reg",
+//"uid": 376,
+//"account": "lyz1232",
+//"password": "1",
+//"creator": "guest"
+//}
+
+
+
+//{
+//"ctrl": "loginok",
+//"uid": 376,
+//"ver": 105001000,
+//"msgid": 3,
+//"os": "windows"
+//}
+
+
+//{
+//"ctrl": "savezy",
+//"uid": 376,
+//"zyid": 100,
+//"ver": 105001000,
+//"os": "windows",
+//"msgid": 4
+//}
+
+// 选择阵营
+//{
+//"ctrl": "setcamp",
+//"uid": 376,
+//"ver": 105001000,
+//"os": "windows",
+//"camp": 4,
+//"msgid": 8
+//}
+
+
+// 创建角色信息
+//{
+//"ctrl": "createrole",
+//"ver": 105001000,
+//"icon": 1002,
+//"os": "windows",
+//"uid": 376,
+//"msgid": 11,
+//"name": "高大的富兰克"
+//}
+
+// 2.登录

@@ -1,0 +1,43 @@
+{
+    "wshost": "0.0.0.0:9998",
+    "serverid": 1,
+    "initgroupnum": 30,
+    "addgroupnum": 10,
+    "maxmsgchan": 2000,
+
+    "appid": "10000024",
+    "apptoken": "7c6bfc266f7a275358b618ecf14cd3ce",
+    "logflag": 0,
+    "msgnum": 50,
+    "log": {
+        "maxfilesize": 500,
+        "maxfilenum": 50
+    },
+    "appconfig": [
+        {
+            "gameid": "10000024",
+            "name": "安卓-渲染征袍"
+        },
+        {
+            "gameid": "10000063",
+            "name": "未知游戏"
+        },
+
+        {
+            "gameid": "10000034",
+            "name": "三国演义"
+        },
+        {
+            "gameid": "10000035",
+            "name": "曹操|三十六记"
+        },
+        {
+            "gameid": "10000033",
+            "name": "三国志13"
+        },
+        {
+            "gameid": "10000008",
+            "name": "安卓-渲染"
+        }
+    ]
+}

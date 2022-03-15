@@ -1,0 +1,8 @@
+id,type,timetype,itemid,itemnum,citydefencenum,itemname,icon,name
+1,1,1,91000001,100000,50,木材,icon_guozhan_q3_01.png,修补城墙
+2,1,1,91000002,100,100,石材,icon_guozhan_q3_02.png,修补城墙
+3,1,1,91000002,5000,5000,矿材,icon_guozhan_q3_03.png,修补城墙
+4,2,1,91000001,100000,50,石稿,icon_guozhan_q3_04.png,破坏城墙
+5,2,1,91000002,100,100,重锤,icon_guozhan_q3_05.png,破坏城墙
+6,2,1,91000002,5000,5000,火攻,icon_guozhan_q3_06.png,破坏城墙
+7,99,0,0,0,100000,0,0,0
