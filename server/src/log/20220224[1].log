@@ -1,5 +1,0 @@
-14:35:23.156765 dbserver.go:55: [debug ] db connect! dragon_game_001
-14:35:59.410982 dbserver.go:55: [debug ] db connect! dragon_bt
-14:35:59.533136 dbserver.go:55: [debug ] db connect! dragon_bt_log
-14:36:25.606131 dbserver.go:55: [debug ] db connect! dragon_bt
-14:36:25.694350 dbserver.go:55: [debug ] db connect! dragon_bt_log
